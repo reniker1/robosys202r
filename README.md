@@ -1,6 +1,10 @@
 # plusコマンド
 
 ![test](https://github.com/renimai/robosys202r/actions/workflows/test.yml/badge.svg)
+
+標準出力から読み込んだ数字を足す
+
+
 ロボットシステム学の練習レポジトリ
 
 * このソフトウェアパッケージは,3条項BSDライセンスの下,再頒布および使用が許可されます.
