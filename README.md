@@ -14,7 +14,7 @@
 
 * Ubuntu
 
-##　著者
+## 著者
 
 * 作成者: Ren Imai
 * 所属: Chiba Institute Of Technology
