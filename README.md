@@ -6,7 +6,8 @@
 
 ## インストール方法
 
-* git clone git@github.com:reniker1/robosys203r.git と入力
+* 以下のコードを入力
+  * git clone git@github.com:reniker1/robosys203r.git
 * plusファイルを作成
 
 ## 実行例
