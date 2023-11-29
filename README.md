@@ -13,7 +13,7 @@
 * seq 5 | ./plus と入力すると15を出力
 
 
-git clone git@github.com:reniker1/robosys203r.git と入力
+git clone git@github.com:reniker1/robosys203r.git© と入力
 
 ## 必要なソフトウェア
 
