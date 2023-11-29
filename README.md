@@ -4,9 +4,16 @@
 
 標準入力から読み込んだ数字を足す。
 
+## インストール方法
+
+* plus
+
 ## 実行例
 
 * seq 5 | ./plus と入力すると15を出力
+
+
+git clone git@github.com:reniker1/robosys203r.git と入力
 
 ## 必要なソフトウェア
 
@@ -15,7 +22,7 @@
 
 ## テスト環境
 
-* Ubuntu
+* Ubuntu 22.04
 
 ## 著者
 
