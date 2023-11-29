@@ -5,7 +5,7 @@
 標準入力から読み込んだ数字を足す。
 
 ## インストール方法
-
+### Githubアカウントをお持ちの方向け 
 * 以下のコードを入力
   * ``` git clone git@github.com:reniker1/robosys203r.git ```
 
