@@ -8,7 +8,7 @@
 
 * plusファイルをインストール
 
-###別の方法(アカウントをお持ちの方のみ)
+### 別の方法(アカウントをお持ちの方のみ)
 
 * 以下のコードを入力
   * ``` git clone git@github.com:reniker1/robosys203r.git ```
