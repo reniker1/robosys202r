@@ -16,7 +16,7 @@
  git clone https://github.com/reniker1/robosys203r.git 
 ```  
 を入力
-* ```robosys203r ``` があることを確認
+* ```robosys203r``` があることを確認
 
 * ``` robosys203r```のリポジトリで実行
 
