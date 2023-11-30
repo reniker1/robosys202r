@@ -11,7 +11,13 @@
 
 ## 利用手順
 
-* 自身のターミナルに ``` git clone https://github.com/reniker1/robosys203r.git ```  を入力
+* 自身のターミナルに  
+```
+ git clone https://github.com/reniker1/robosys203r.git 
+```  
+を入力
+* ```robosys203r ``` があることを確認
+
 * 実行
 
 ## 実行例
