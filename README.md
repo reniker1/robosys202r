@@ -12,7 +12,7 @@
 ## 利用手順
 
 * ウェブブラウザでGitHubアカウントを作成しログイン
-* 自身のターミナルに``` $ git clone git@github.com:reniker1/robosys203r.git ```を入力
+* 自身のターミナルに ``` git clone git@github.com:reniker1/robosys203r.git ```  を入力
 * 実行
 
 ## 実行例
